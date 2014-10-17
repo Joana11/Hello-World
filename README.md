@@ -1,7 +1,4 @@
 Hello-World
 ===========
-
-Hello World!!!
-
-
-first repository
+nazwa projektu:
+skład grupy: Beata Wlazły, Patrycja Dobruchowska, Joanna Pilakowska
